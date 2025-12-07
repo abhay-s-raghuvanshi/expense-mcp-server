@@ -1,0 +1,34 @@
+{
+  "members": [
+    "shivam",
+    "Aman",
+    "Amit",
+    "Vansh"
+  ],
+  "categories": [
+    {
+      "name": "travel",
+      "subcategories": ["auto", "bus", "train", "metro", "cab", "fuel"]
+    },
+    {
+      "name": "food",
+      "subcategories": ["breakfast", "lunch", "dinner", "snacks", "tea_coffee"]
+    },
+    {
+      "name": "entertainment",
+      "subcategories": ["movie", "games", "outing"]
+    },
+    {
+      "name": "shopping",
+      "subcategories": ["groceries", "clothes", "electronics", "other"]
+    },
+    {
+      "name": "utilities",
+      "subcategories": ["mobile_recharge", "internet", "other"]
+    },
+    {
+      "name": "other",
+      "subcategories": []
+    }
+  ]
+}
