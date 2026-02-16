@@ -1,4 +1,4 @@
-# Expense Tracker MCP Server
+# Expense MCP Server
 
 A Model Context Protocol (MCP) server for tracking and managing expenses. This server enables AI assistants to help you manage your finances through natural language interactions.
 
